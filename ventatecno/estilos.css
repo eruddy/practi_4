@@ -1,0 +1,77 @@
+
+body{
+	background: url(imagenes/fondos.jpg)0 0 ;
+	color: rgb(255,255,255);
+
+
+}
+div ul li{
+	width: auto;
+	height: auto;
+	background: rgba(255,255,255,0.7);
+	color:rgb(255,255,255);	
+	float:left;
+	font-size: 30px;
+	list-style: none;
+	padding: 10px;
+	padding-top: 30px;
+	margin-left: 15px;
+
+
+}
+h2{
+	font-size: 2em;
+}
+.logo{
+	clear: both;
+	
+}
+#cabecera{
+	margin-bottom: 50px;
+	margin-left: 40px;
+
+	padding-left:1000px;
+}
+a:link{
+	text-decoration: none;
+}
+div img{
+	
+	height: 300px;
+	float: left;
+	margin-left: 10px;
+}
+
+.clear{
+	clear: both;
+}
+
+.contacto{
+	
+	width: 400px;
+	font-size: 1.5em;S
+
+}
+.parrafo{
+
+	width: 700px;
+	font-size: 1.5em;
+
+}
+#acerca{
+	padding-left: 100px;
+
+	
+}
+
+#form{
+	 max-width: 300px;
+  	 padding: 15px;
+  	 margin: 0 auto;
+
+}
+ .form {
+  	 max-width: 300px;
+  	 padding: 15px;
+  	 margin: 0 auto;
+  }
